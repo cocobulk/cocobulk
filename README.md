@@ -2,7 +2,7 @@
 
 <p>I am a junior Web Developer, living in France.</p>
 
-- 📚 I graduated with a Master's degree in International Business from Paris Dauphine University in 2022.
+- 📚 I graduated with a Master's degree in International Business from Paris Dauphine University in 2022
 - 💻 I just completed a 9-week full-time intensive coding bootcamp at Le Wagon
 
 <p>My bootcamp projects :</p>
